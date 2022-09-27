@@ -1,0 +1,39 @@
+﻿*{ /*"C:\Users\MINEDUCYT\Documents\caso de desarrollo 1\css\11 al 20\ejercicio 19.html" */
+    font-family: Tahoma; 
+}
+
+section{
+    background-color:gray; 
+    width:870px; 
+    height:400px; 
+    float:left; 
+    margin:5px; 
+    -khtml-border-radius:10px; 
+    -moz-border-radius:10px; 
+    -webkit-border-radius:10px; 
+
+}
+
+section#izquierda{
+    background-color:burlywood; 
+    width:260px; 
+    height:370px; 
+    float:left; 
+    padding:10px; 
+}
+
+section#medio{
+    background-color:burlywood; 
+    width:260px; 
+    height:370px; 
+    float:left; 
+    padding:10px; 
+}
+
+section#derecha{
+    background-color:burlywood;
+    width:260px; 
+    height:370px; 
+    float:left; 
+    padding:10px; 
+}
